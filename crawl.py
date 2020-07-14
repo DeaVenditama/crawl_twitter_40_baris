@@ -1,10 +1,10 @@
 import tweepy
 import csv
 
-api_key = 'QTHRE3p87awNZkKfOrF4ZAk4Y'
-api_key_secret = 's9hNhP3rhWtQjEdsGRfTNBSvSem6yYPx7irlRi0b1HkiKR9i0j'
-access_token = '560496018-sMJdsIIFj5VoJ4g0p98ZpwkNBbqMlPYMukyv8NxI'
-access_token_secret = 'rTvnMnn18VjnYaWMGeDarPqCSv5JaPEbFE61A6fsVlc5d'
+api_key = 'api_key'
+api_key_secret = 'api_key_secret'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
 tweetsPerQry = 100
 maxTweets = 1000000
 search_key = "jkt48"
